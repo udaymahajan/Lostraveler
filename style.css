@@ -1,0 +1,73 @@
+.alert-formcompleted{
+    text-align:center;
+    padding:10px;
+    background:#79c879;
+    color:#fff;
+    margin-bottom:10px;
+    display:none;
+
+}
+
+.alert-modalcompleted{
+    text-align:center;
+    padding:10px;
+    background:#79c879;
+    color:#fff;
+    margin-bottom:10px;
+    display:none;
+}
+
+
+.alert-name{
+    text-align:center;
+    padding:10px;
+    background:#f50505;
+    color:#fff;
+    margin-bottom:10px;
+    display:none;
+}
+
+.alert-email{
+    text-align:center;
+    padding:10px;
+    background:#f50505;
+    color:#fff;
+    margin-bottom:10px;
+    display:none;
+}
+
+.alert-number{
+    text-align:center;
+    padding:10px;
+    background:#f50505;
+    color:#fff;
+    margin-bottom:10px;
+    display:none;
+}
+
+.alert-feedback{
+    text-align:center;
+    padding:10px;
+    background:#f50505;
+    color:#fff;
+    margin-bottom:10px;
+    display:none;
+}
+
+.alert-Email{
+    text-align:center;
+    padding:10px;
+    background:#f50505;
+    color:#fff;
+    margin-bottom:10px;
+    display:none;
+}
+
+.alert-Password{
+    text-align:center;
+    padding:10px;
+    background:#f50505;
+    color:#fff;
+    margin-bottom:10px;
+    display:none;
+}
